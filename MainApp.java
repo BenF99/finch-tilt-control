@@ -1,5 +1,3 @@
-package assignment_2;
-
 import java.awt.Color; // Colour
 import java.io.IOException; // Handling IO file exceptions
 import java.nio.file.Files; // Directory
