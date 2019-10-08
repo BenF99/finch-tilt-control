@@ -1,5 +1,3 @@
-package assignment_2;
-
 import java.awt.Color; // Colour
 import java.awt.Desktop; // Open application
 import java.io.File; // File
@@ -91,7 +89,7 @@ public class MainExec {
 		
 		System.out.println("Welcome to \"Tilt Control\" (Task 7)");
 		System.out.println("\nInstructions:");
-		System.out.println("\n1) Enter the number of seconds you would like the program to record the Finch’s orientation");
+		System.out.println("\n1) Enter the number of seconds you would like the program to record the Finchâ€™s orientation");
 		System.out.println("2) Press ENTER to confirm your choice");
 		System.out.println("3) You will be provided with a 3 second warning before being required to move the Finch");
 		System.out.println("4) Tilt the Finch as you like, attempting to remain accurate with each orientation");
